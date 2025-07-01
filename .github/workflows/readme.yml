@@ -1,7 +1,7 @@
 name: Metrics
 on:
   # Updated daily
-  schedule: [{cron: "0 0 * * *"}]
+  schedule: [{cron: "1 1 * * *"}]
   # Or manually
   workflow_dispatch:
   # Or when pushing to main
